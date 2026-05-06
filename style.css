@@ -1,0 +1,32 @@
+body{
+font-family: Arial;
+background-color: rgb(218, 201, 201);
+margin: 0;
+text-align: center;
+}
+.card{
+background-color: brown;
+width: 250px;
+margin: 20px auto;
+padding: 20px;
+border-radius: 15px;
+box-shadow: 5px 5px 15px rgba(0, 0, 0, 0);
+}
+
+.crd img{
+width: 100px;
+bober-radius 50%;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
